@@ -1,5 +1,7 @@
 version: '1'
-domains: []
+domains:
+  - agents
+  - typescript
 governance:
   max_entries: 100
   warn_entries: 150
